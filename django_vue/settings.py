@@ -183,3 +183,4 @@ REGEX_MOBILE = "^1[358]\d{9}$|^147\d{8}$|^176\d{8}$"
 # 云片网的 APIKEY 设置
 APIKEY = "6982fb8a80dfac6af94d87e45c51e45d"
 #  change test1
+#新增了邮箱验证功能
